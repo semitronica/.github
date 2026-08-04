@@ -7,7 +7,7 @@
 <h1 align="center">Semitrónica: Tecnologias em Microeletrónica</h1>
 
 <p align="center">
-  <strong>Mais de 30 anos de experiência a transformar ideias de hardware e software em realidade.</strong>
+  <strong>Mais de 30 anos de experiência.</strong>
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@ A nossa fábrica de última geração garante a precisão e fiabilidade dos seus
 ### 💡 Tecnologias Proprietárias
 
 Também desenvolvemos sistemas avançados que demonstram a nossa capacidade técnica:
-*   **[iON: Eletricidade Inteligente](https://ionelectricity.com/):** Um sistema de monitorização de energia doméstico operado pelo nosso processador HANblue®, que comunica diretamente com contadores inteligentes, fornecendo dados em tempo real, deteção de anomalias e simulação de tarifas.
-*   **[Asense IMU](https://semitronica.pt/asense/):** Uma Unidade de Medição Inercial de alto desempenho com conectividade LTE integrada. Oferece análise de movimento em 8 dimensões (amostragem a 30 kHz, resolução <0.01 g) para robótica e indústria.
+*   **[iON: Eletricidade Inteligente](https://ionelectricity.com/):** O nosso sistema de gestão de energia para casas inteligentes.
+*   **[Asense](https://semitronica.pt/asense/):** O nosso sistema de Monitorização de Saúde Estrutural Wireless.
 
 ---
 
