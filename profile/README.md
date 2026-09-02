@@ -35,7 +35,7 @@ We disrupt traditional DIY development models by offering a comprehensive suppor
 *   **Mobile Apps:** Development of intuitive, secure, cross-platform (iOS/Android) mobile interfaces that empower users to interact seamlessly with their connected devices.
 *   **Cellular Connectivity:** Global management of cellular channels, connecting you with top MNO partners for optimal global coverage and competitive costs.
 
-### 🏭 Electronic Manufacturing Services (EMS)
+### 🏭 [Electronic Manufacturing Services (EMS)](https://semitronica.pt/)
 
 Our state-of-the-art factory guarantees the accuracy, reliability, and long-term performance of your devices—from early prototyping to full-scale mass production:
 *   **PCB Assembly:** Comprehensive SMT and THT manufacturing capabilities.
@@ -46,7 +46,7 @@ Our state-of-the-art factory guarantees the accuracy, reliability, and long-term
 
 We also develop standalone advanced solutions that showcase our technical depth:
 *   **[iON: Intelligent Electricity](https://ionelectricity.com/):** Home Energy Management Systems (EMS).
-*   **[Asense](https://semitronica.pt/asense/):** Wireless Structural Health Monitoring (SHM).
+*   **[Asense](https://asense.semitronica.pt/):** Wireless Structural Health Monitoring (SHM).
 
 ---
 
