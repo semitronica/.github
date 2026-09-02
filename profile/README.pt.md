@@ -35,7 +35,7 @@ Substituímos os modelos tradicionais de desenvolvimento por um programa de supo
 *   **Mobile Apps:** Desenvolvimento de interfaces móveis intuitivas e seguras (iOS/Android), garantindo uma excelente interação do utilizador com os equipamentos conectados.
 *   **Conectividade Celular:** Gestão global de canais celulares (MNO partners), garantindo a melhor cobertura mundial com custos competitivos para a sua frota de dispositivos.
 
-### 🏭 Electronic Manufacturing Services (EMS)
+### 🏭 [Electronic Manufacturing Services (EMS)](https://semitronica.pt/)
 
 A nossa fábrica de última geração garante a precisão e fiabilidade dos seus dispositivos — desde a fase de protótipo até à produção em massa:
 *   **Montagem de PCB:** Capacidades completas de manufatura SMT e THT.
@@ -46,7 +46,7 @@ A nossa fábrica de última geração garante a precisão e fiabilidade dos seus
 
 Também desenvolvemos sistemas avançados que demonstram a nossa capacidade técnica:
 *   **[iON: Eletricidade Inteligente](https://ionelectricity.com/):** O nosso sistema de gestão de energia para casas inteligentes.
-*   **[Asense](https://semitronica.pt/asense/):** O nosso sistema de Monitorização de Saúde Estrutural Wireless.
+*   **[Asense](https://asense.semitronica.pt/):** O nosso sistema de Monitorização de Saúde Estrutural Wireless.
 
 ---
 
